@@ -1,0 +1,4 @@
+MURCIELAGO:Nombre del animal que tiene todas las vocales.
+MARVEL:Editorial de cómics estadounidense 
+PERLA:Esferas hechas de nácar producidas dentro del cuerpo blando de los moluscos
+STAR:Estrella en inglés
